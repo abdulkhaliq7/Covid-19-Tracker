@@ -9,7 +9,7 @@ function Table({ countries }) {
                    <td>{country}</td>
                     <td>
                         <strong>{cases}</strong>
-                    </td>
+                    </td> 
                </tr>
             ))}
         </div>
